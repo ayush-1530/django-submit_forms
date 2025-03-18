@@ -1,0 +1,119 @@
+2025-02-27 08:31:10,839 45 POST.items
+2025-02-27 08:31:10,839 47 csrfmiddlewaretoken : 08y7cYSl9i12PT6nOqB9vuda2dAQsq14kzzqkmnTPvxi63YhUWOxBTH26sc2Rjal
+2025-02-27 08:31:10,839 47 name : fjsdkaljf
+2025-02-27 08:31:10,839 47 employee_id : 87987
+2025-02-27 08:31:10,840 47 department : jsldfjk
+2025-02-27 08:31:10,840 47 date_of_joining : 01/01/2002
+2025-02-27 08:31:10,840 66 i am here
+2025-02-27 08:31:10,840 67 
+2025-02-27 08:31:20,576 266 /Users/ayushnegi/Desktop/pythonproject/myapp/views.py changed, reloading.
+2025-02-27 08:31:21,777 45 POST.items
+2025-02-27 08:31:21,777 47 csrfmiddlewaretoken : xmoPxAbAR4f1DsG0576lrnJGlXn3YBCWRNp8FYG8xhLhUCyUbDjJxMdypcZfnuLd
+2025-02-27 08:31:21,777 47 name : fjsdkaljf
+2025-02-27 08:31:21,777 47 employee_id : 87987
+2025-02-27 08:31:21,777 47 department : jsldfjk
+2025-02-27 08:31:21,778 47 date_of_joining : 01/01/2002
+2025-02-27 08:31:21,778 66 i am here
+2025-02-27 08:31:21,782 67 dict_items([])
+2025-02-27 08:32:39,309 45 POST.items
+2025-02-27 08:32:39,309 47 csrfmiddlewaretoken : ZT3pR1M1nUsKoQ8gd5PX30soGZaNE08Vjk4IZphz37Y0F00ajB2l9pWgKeMZ3Thc
+2025-02-27 08:32:39,310 47 name : fjsdkaljf
+2025-02-27 08:32:39,310 47 employee_id : 87987
+2025-02-27 08:32:39,310 47 department : jsldfjk
+2025-02-27 08:32:39,310 47 date_of_joining : 13/01/2002
+2025-02-27 08:32:39,310 66 i am here
+2025-02-27 08:32:39,314 67 dict_items([('date_of_joining', ['Enter a valid date.'])])
+2025-02-27 08:33:08,715 266 /Users/ayushnegi/Desktop/pythonproject/myapp/views.py changed, reloading.
+2025-02-27 08:33:08,872 45 POST.items
+2025-02-27 08:33:08,873 47 csrfmiddlewaretoken : cPf1gnV60roS4TJwPYmoGxvyPHrSgy8PwggkoLqEGEU8l3BqVuzMMWZqTW34Frh6
+2025-02-27 08:33:08,873 47 name : fjsdkaljf
+2025-02-27 08:33:08,873 47 employee_id : 87987
+2025-02-27 08:33:08,873 47 department : jsldfjk
+2025-02-27 08:33:08,873 47 date_of_joining : 13/01/2002
+2025-02-27 08:33:08,873 66 i am here
+2025-02-27 08:33:08,874 67 dict_items([('date_of_joining', ['Enter a valid date.'])])
+2025-02-27 08:36:13,815 248 Not Found: /
+2025-02-27 08:36:31,961 266 /Users/ayushnegi/Desktop/pythonproject/myapp/forms.py changed, reloading.
+2025-02-27 08:36:34,962 248 Not Found: /
+2025-02-27 08:36:50,609 45 POST.items
+2025-02-27 08:36:50,609 47 csrfmiddlewaretoken : ugwZGsim2lF9H0NAm5SM2IqAvMokV2ZdOHxiOQNUIybpYaFusB5a87Usz10wkV8u
+2025-02-27 08:36:50,609 47 name : ayush
+2025-02-27 08:36:50,609 47 employee_id : 233
+2025-02-27 08:36:50,609 47 department : klm
+2025-02-27 08:36:50,610 47 date_of_joining : 2025-02-11
+2025-02-27 08:36:50,610 66 i am here
+2025-02-27 08:36:50,614 67 
+2025-02-27 08:36:51,897 45 POST.items
+2025-02-27 08:36:51,897 47 csrfmiddlewaretoken : 7jSY1g8KcCTaVN7yHX7MYd8SxQQq2G4jrKTh9EDiSPpqcXZsNtka4CCKB5sCrzdA
+2025-02-27 08:36:51,897 47 name : ayush
+2025-02-27 08:36:51,897 47 employee_id : 233
+2025-02-27 08:36:51,897 47 department : klm
+2025-02-27 08:36:51,897 47 date_of_joining : 2025-02-11
+2025-02-27 08:36:51,897 66 i am here
+2025-02-27 08:36:51,898 67 
+2025-02-27 08:36:52,390 45 POST.items
+2025-02-27 08:36:52,391 47 csrfmiddlewaretoken : 6oc168grjRNgGoYOzp0XAiambXU7Iyl4qPdkewLZZ4jwXyQIFVdlGHEefcwj7rul
+2025-02-27 08:36:52,391 47 name : ayush
+2025-02-27 08:36:52,391 47 employee_id : 233
+2025-02-27 08:36:52,391 47 department : klm
+2025-02-27 08:36:52,391 47 date_of_joining : 2025-02-11
+2025-02-27 08:36:52,391 66 i am here
+2025-02-27 08:36:52,392 67 
+2025-02-27 08:36:52,694 45 POST.items
+2025-02-27 08:36:52,694 47 csrfmiddlewaretoken : vYeUVFuoBCEk10tMc6edUwyu0h7KXqlcPpfd33ZWhPaAialGiCrB0V2m4wJWmjut
+2025-02-27 08:36:52,694 47 name : ayush
+2025-02-27 08:36:52,694 47 employee_id : 233
+2025-02-27 08:36:52,694 47 department : klm
+2025-02-27 08:36:52,694 47 date_of_joining : 2025-02-11
+2025-02-27 08:36:52,695 66 i am here
+2025-02-27 08:36:52,695 67 
+2025-02-27 08:36:52,978 45 POST.items
+2025-02-27 08:36:52,978 47 csrfmiddlewaretoken : FXL0TRFjnlmtJwqadfL6tzWzc3zoLZDiZoMj1faR3ySJ0Gi4jLYuzYqrgibAaSMz
+2025-02-27 08:36:52,979 47 name : ayush
+2025-02-27 08:36:52,979 47 employee_id : 233
+2025-02-27 08:36:52,979 47 department : klm
+2025-02-27 08:36:52,979 47 date_of_joining : 2025-02-11
+2025-02-27 08:36:52,979 66 i am here
+2025-02-27 08:36:52,979 67 
+2025-02-27 08:38:00,924 266 /Users/ayushnegi/Desktop/pythonproject/myapp/views.py changed, reloading.
+2025-02-27 08:38:04,991 266 /Users/ayushnegi/Desktop/pythonproject/myapp/views.py changed, reloading.
+2025-02-27 08:38:07,772 266 /Users/ayushnegi/Desktop/pythonproject/myapp/views.py changed, reloading.
+2025-02-27 08:38:09,536 266 /Users/ayushnegi/Desktop/pythonproject/myapp/views.py changed, reloading.
+2025-02-27 08:38:12,328 266 /Users/ayushnegi/Desktop/pythonproject/myapp/views.py changed, reloading.
+2025-02-27 08:38:19,213 266 /Users/ayushnegi/Desktop/pythonproject/myapp/views.py changed, reloading.
+2025-02-27 08:38:42,391 266 /Users/ayushnegi/Desktop/pythonproject/myapp/views.py changed, reloading.
+2025-02-27 08:38:43,952 266 /Users/ayushnegi/Desktop/pythonproject/myapp/views.py changed, reloading.
+2025-02-27 08:38:46,762 266 /Users/ayushnegi/Desktop/pythonproject/myapp/views.py changed, reloading.
+2025-02-27 08:38:53,813 266 /Users/ayushnegi/Desktop/pythonproject/myapp/views.py changed, reloading.
+2025-02-27 08:38:55,596 266 /Users/ayushnegi/Desktop/pythonproject/myapp/views.py changed, reloading.
+2025-02-27 08:39:00,442 266 /Users/ayushnegi/Desktop/pythonproject/myapp/views.py changed, reloading.
+2025-02-27 08:39:03,243 266 /Users/ayushnegi/Desktop/pythonproject/myapp/views.py changed, reloading.
+2025-02-27 08:39:07,076 266 /Users/ayushnegi/Desktop/pythonproject/myapp/views.py changed, reloading.
+2025-02-27 08:39:08,858 266 /Users/ayushnegi/Desktop/pythonproject/myapp/views.py changed, reloading.
+2025-02-27 08:39:11,669 266 /Users/ayushnegi/Desktop/pythonproject/myapp/views.py changed, reloading.
+2025-02-27 08:39:14,494 266 /Users/ayushnegi/Desktop/pythonproject/myapp/views.py changed, reloading.
+2025-02-27 08:39:27,461 266 /Users/ayushnegi/Desktop/pythonproject/myapp/views.py changed, reloading.
+2025-02-27 08:39:33,145 248 Not Found: /
+2025-02-27 08:40:05,710 45 POST.items
+2025-02-27 08:40:05,711 47 csrfmiddlewaretoken : dzd1k4asrIf0s79fyNh4so5gSlasjwJVx0ekssF07VLgJh19EjusyNz8WAMEIpSc
+2025-02-27 08:40:05,711 47 name : don
+2025-02-27 08:40:05,711 47 employee_id : 000011112233
+2025-02-27 08:40:05,711 47 department : tol
+2025-02-27 08:40:05,711 47 date_of_joining : 2007-06-05
+2025-02-27 08:40:05,714 51 data: {'name': 'don', 'employee_id': 11112233, 'department': 'tol', 'date_of_joining': datetime.date(2007, 6, 5)}
+2025-02-27 08:40:05,714 59 This is my data : {'name': 'don', 'employee_id': 11112233, 'doj': '2007-06-05', 'department': 'tol'}
+2025-03-14 07:04:31,101 248 Not Found: /
+2025-03-14 07:04:31,132 248 Not Found: /favicon.ico
+2025-03-16 17:54:27,811 248 Not Found: /
+2025-03-16 17:54:49,455 13 POST.items
+2025-03-16 17:54:49,456 15 csrfmiddlewaretoken : QZXK32qREJIBfmwcWZYCkF1UKDlp5iBjaqY3bqVpkWeRwwo62vb0q4vMOSXBubKA
+2025-03-16 17:54:49,456 15 name : ayush
+2025-03-16 17:54:49,457 15 enrollment_number : 1223
+2025-03-16 17:54:49,457 15 department : wgt
+2025-03-16 17:54:49,457 15 date_of_birth : 2025-03-07
+2025-03-16 17:54:49,460 20 {form.cleaned_data}
+2025-03-16 17:54:49,460 30 this is my data: {'name': 'ayush', 'enrollment_number': 1223, 'department': 'wgt', 'dob': '2025-03-07'}
+2025-03-16 17:55:06,985 248 Not Found: /
+2025-03-16 17:55:07,642 248 Not Found: /edit-user/
+2025-03-16 18:01:08,071 266 /Users/ayushnegi/Desktop/pythonproject/crud_operations.py changed, reloading.
+2025-03-16 18:01:16,409 266 /Users/ayushnegi/Desktop/pythonproject/crud_operations.py changed, reloading.
